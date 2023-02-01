@@ -27,4 +27,5 @@ pip install -r requirements.txt
 ### generate the ‘SECRET KEY’ value
 
 The value assigned to the config variable ‘SECRET KEY’ can be auto-generated using a python libraries.
-![alt text](https://drive.google.com/file/d/1g6IYlagSpN5IZz2gNK1z46NnOowax7a7/view?usp=share_link)
+![alt text][img]
+[img]: https://drive.google.com/file/d/1g6IYlagSpN5IZz2gNK1z46NnOowax7a7/view?usp=share_link
