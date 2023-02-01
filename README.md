@@ -27,5 +27,11 @@ pip install -r requirements.txt
 ### generate the ‘SECRET KEY’ value
 
 ![Screenshot_20230201_142420](https://user-images.githubusercontent.com/88674671/216010970-6545752d-acd9-4409-92e9-dce14c983c3b.png)
+The value assigned to the config variable ‘SECRET KEY’ can be auto-generated using a python libraries
 
+now, the app is run on the local server using
+```pyton app.py```
 
+## Demo video
+
+[click here](https://drive.google.com/file/d/1zyOhZ_4uK6bTBymATa2IKdutlfiX774B/view?usp=share_link)
